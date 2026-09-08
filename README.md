@@ -1,2 +1,2 @@
 # witina-info
-Public privacy and support information for witina.
+Public privacy and support information for Elori.
